@@ -1,0 +1,1 @@
+# nfps_texture_obj
